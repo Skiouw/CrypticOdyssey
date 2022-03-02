@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Cryptic Odyssey mod for Minecraft 1.18 (WIP)
 
 ## Setup
 
